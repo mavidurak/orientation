@@ -31,14 +31,15 @@ Kaynaklar;
 
 ### CSS
 
-CSS, HTML ile oluşturulan görüntülerin stillerini belirlemek için kullandığımız bir dildir. Modern web uygulamalarının olmazsa olmazlarındandır.
+CSS, HTML ile oluşturulan görüntülerin stillerini belirlemek için kullandığımız bir dildir. Modern web uygulamalarının olmazsa olmazlarındandır.Pure css'in yanında [Bootstrap](https://getbootstrap.com/) ve [SASS](https://sass-lang.com/) bize büyük kolaylıklar sağlar.
 
 Kaynaklar;
 
 - [Sıfırdan CSS Eğitimi (Türkçe Video Serisi)](https://www.youtube.com/watch?v=yJsq0bqChko&list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y)
 - [w3schools (İngilizce)](https://www.w3schools.com/css/)
 - [CSS Dersleri (Türkçe)](https://css.sitesi.web.tr/)
-
+- [Sass Temel Bilgiler](https://sass-lang.com/guide)
+- [Bootstrap Doküman Sayfası]
 
 ### JavaScript
 
