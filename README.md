@@ -29,15 +29,6 @@ Kaynaklar;
 - [devdocs.io (İngilizce)](https://devdocs.io/html/)
 - [HTML Dersleri (Türkçe)](https://html.sitesi.web.tr/)
 
-### JavaScript
-
-Bir programlama dili olan JavaScript, modern web uygulamalarında sıkça kullanılmaktadır. *Mentörlük Çalışma Grubu* içerisinde de ön yüz (frontend) gelişmenin yanı sıra, arka yüz (backend) geliştirmede de kullanılmaktadır. Bu nedenle temel düzeyde JavaScript bilmek katılımcılar için zorunludur;
-
-Kaynaklar;
-
-- [w3schools (İngilizce)](https://www.w3schools.com/js/DEFAULT.asp)- [The Modern JavaScript Tutorial (İngilizce)](https://javascript.info/)
-- [JavaScript Dersleri (Türkçe)](https://javascript.sitesi.web.tr/)
-
 ### CSS
 
 CSS, HTML ile oluşturulan görüntülerin stillerini belirlemek için kullandığımız bir dildir. Modern web uygulamalarının olmazsa olmazlarındandır.
@@ -48,14 +39,15 @@ Kaynaklar;
 - [w3schools (İngilizce)](https://www.w3schools.com/css/)
 - [CSS Dersleri (Türkçe)](https://css.sitesi.web.tr/)
 
-### NodeJS
 
-Backend tarafında da [NodeJS](https://nodejs.org/en/about/) teknolojisini kullandığımız için, bu teknoloji hakkında da bilgi sahibi olunması gerekmektedir.
+### JavaScript
+
+Bir programlama dili olan JavaScript, modern web uygulamalarında sıkça kullanılmaktadır. *Mentörlük Çalışma Grubu* içerisinde de ön yüz (frontend) gelişmenin yanı sıra, arka yüz (backend) geliştirmede de kullanılmaktadır. Bu nedenle temel düzeyde JavaScript bilmek katılımcılar için zorunludur;
 
 Kaynaklar;
 
-- [w3schools (İngilizce)](https://www.w3schools.com/nodejs/)
-- [NodeJS Dersleri](https://www.yusufsezer.com.tr/node-js-dersleri/)
+- [w3schools (İngilizce)](https://www.w3schools.com/js/DEFAULT.asp)- [The Modern JavaScript Tutorial (İngilizce)](https://javascript.info/)
+- [JavaScript Dersleri (Türkçe)](https://javascript.sitesi.web.tr/)
 
 ### Paket Yöneticileri
 
@@ -65,3 +57,14 @@ Kaynaklar;
 
 - [An introduction to how JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/)
 - [NPM - Node Paket Yöneticisi](https://medium.com/devopsturkiye/npm-node-paket-y%C3%B6neticisi-8114f573ad67)
+
+
+### NodeJS
+
+Backend tarafında da [NodeJS](https://nodejs.org/en/about/) teknolojisini kullandığımız için, bu teknoloji hakkında da bilgi sahibi olunması gerekmektedir.
+
+Kaynaklar;
+
+- [w3schools (İngilizce)](https://www.w3schools.com/nodejs/)
+- [NodeJS Dersleri](https://www.yusufsezer.com.tr/node-js-dersleri/)
+
