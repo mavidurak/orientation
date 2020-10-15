@@ -38,8 +38,8 @@ Kaynaklar;
 - [Sıfırdan CSS Eğitimi (Türkçe Video Serisi)](https://www.youtube.com/watch?v=yJsq0bqChko&list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y)
 - [w3schools (İngilizce)](https://www.w3schools.com/css/)
 - [CSS Dersleri (Türkçe)](https://css.sitesi.web.tr/)
-- [Sass Temel Bilgiler](https://sass-lang.com/guide)
-- [Bootstrap Doküman Sayfası](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Sass Temel Bilgiler (İngilizce)](https://sass-lang.com/guide)
+- [Bootstrap Doküman Sayfası (İngilizce)](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ### JavaScript
 
